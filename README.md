@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Computer Programming.
 - 🌱 I’m currently learning ... Computer Programming.
 - 💞️ I’m looking to collaborate on ... Computer Programming.
-- 📫 How to reach me ...
+- 📫 How to reach me ... message me here. I don't use social media.
 
 <!---
 JamesDoak/JamesDoak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
