@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JamesDoak
-- 👀 I’m interested in ... Computer Programming.
-- 🌱 I’m currently learning ... Computer Programming.
-- 💞️ I’m looking to collaborate on ... Computer Programming.
-- 📫 How to reach me ... message me here. I don't use social media.
+- 👀 I’m interested in ... Computer Programming of all kinds. Particulatly C# asp.net, and Node.js
+- 🌱 I’m currently learning ... Node.js, looking to create web applications.
+- 💞️ I’m looking to collaborate on ... anything programming related.
 
 <!---
 JamesDoak/JamesDoak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
